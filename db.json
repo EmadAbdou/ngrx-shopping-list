@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": "50056950-d72d-43e2-aa6b-663b69ba9af4",
+      "name": "Orange"
+    },
+    {
+      "id": "397ad0f9-754b-40e5-a9d0-58796cd0afae",
+      "name": "Food"
+    },
+    {
+      "id": "fb9623ea-a9d1-448b-9ea4-eac19ef9a2a5",
+      "name": "Banana"
+    }
+  ]
+}
